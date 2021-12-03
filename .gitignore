@@ -205,6 +205,7 @@ _deps
 *.iml
 out
 gen
+.git/
 
 ### Windows template
 # Windows thumbnail cache files
