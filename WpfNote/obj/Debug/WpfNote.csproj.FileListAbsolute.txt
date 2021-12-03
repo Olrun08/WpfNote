@@ -1,0 +1,15 @@
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\bin\Debug\WpfNote.exe.config
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\bin\Debug\WpfNote.exe
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\bin\Debug\WpfNote.pdb
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\WpfNote.csprojAssemblyReference.cache
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\MainWindow.g.cs
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\App.g.cs
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\WpfNote_MarkupCompile.cache
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\WpfNote_MarkupCompile.lref
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\MainWindow.baml
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\WpfNote.g.resources
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\WpfNote.Properties.Resources.resources
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\WpfNote.csproj.GenerateResource.cache
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\WpfNote.csproj.CoreCompileInputs.cache
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\WpfNote.exe
+C:\Users\trace\RiderProjects\WpfNote\WpfNote\obj\Debug\WpfNote.pdb
