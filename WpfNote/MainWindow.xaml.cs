@@ -1,4 +1,5 @@
 ﻿using System.Windows;
+using System.Windows.Controls;
 
 namespace WpfNote
 {
@@ -14,7 +15,20 @@ namespace WpfNote
 
         private void ApplyButton_OnClick(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show(this.DescriptionText.Text);
+            MessageBox.Show($"The Description is : {DescriptionText.Text}");
+        }
+
+        private void ResetButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            WeldCheckbox.IsChecked = AssemblyCheckbox.IsChecked = PlasmaCheckbox.IsChecked =
+                LaserCheckbox.IsChecked = PurchaseCheckbox.IsChecked = LatheCheckbox.IsChecked =
+                    DrillCheckbox.IsChecked = FoldCheckbox.IsChecked = RollCheckbox.IsChecked =
+                        SawCheckbox.IsChecked = SawCheckbox.IsChecked = false;
+        }
+
+        private void CheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+            LengthText.Text += ((CheckBox) sender).Content;
         }
     }
 }
