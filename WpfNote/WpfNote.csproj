@@ -64,6 +64,9 @@
         </Compile>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Model\Model.cs" />
+        <Compile Include="Model\ModelView.cs" />
+        <Compile Include="Model\RelayCommand.cs" />
         <Compile Include="Properties\AssemblyInfo.cs">
             <SubType>Code</SubType>
         </Compile>
@@ -79,15 +82,6 @@
     </ItemGroup>
     <ItemGroup>
         <None Include="App.config" />
-    </ItemGroup>
-    <ItemGroup>
-      <Folder Include="tutorials" />
-    </ItemGroup>
-    <ItemGroup>
-      <Content Include="Images\drive.png" />
-      <Content Include="Images\file.png" />
-      <Content Include="Images\folder-closed.png" />
-      <Content Include="Images\folder-open.png" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
